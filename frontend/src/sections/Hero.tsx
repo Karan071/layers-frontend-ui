@@ -19,7 +19,7 @@ export default function Hero() {
                     <Pointer name="Karan"/> 
                 </div>
                 <div className="hidden lg:block absolute right-80 -top-4">
-                    <Pointer name="Ayush" color="red"/>
+                    <Pointer name="Nandinee" color="red"/>
                 </div>
                 <div className="flex justify-center">
                     <div className="inline-flex py-1 px-3 bg-gradient-to-r from-purple-400 to bg-pink-400 rounded-full text-neutral-950 font-semibold">✴️ $7.5M seeds round raised</div>
@@ -32,7 +32,7 @@ export default function Hero() {
                 <form className="flex border border-white/15 rounded-full p-2 mt-8 max-w-lg mx-auto">
                     <input type="email"
                         placeholder="Enter your email"
-                        className="bg-transparent px-4 flex-grow min-w-0" />
+                        className="bg-transparent px-4 md:flex-1 w-full" />
                     <Button
                         variant="primary"
                         type="submit"

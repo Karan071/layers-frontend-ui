@@ -9,7 +9,7 @@ import avatar1 from "@/assets/images/avatar-ashwin-santiago.jpg";
 import avatar2 from "@/assets/images/avatar-florence-shaw.jpg";
 import avatar3 from "@/assets/images/avatar-lula-meyers.jpg";
 import avatar4 from "@/assets/images/avatar-owen-garcia.jpg";
-import incredibleGif from "../../public/asset/gif-incredible.mp4";
+
 
 const features = [
     "Asset Library",
